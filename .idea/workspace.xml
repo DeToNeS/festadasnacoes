@@ -3,155 +3,85 @@
   <component name="ChangeListManager">
     <list default="true" id="355cbd74-c3b8-4070-a498-4a917ca7fcb9" name="Default" comment="">
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/loaders/circular/001.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/loaders/circular/002.gif" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/loaders/circular/003.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/loaders/horizontal/004.gif" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/loaders/horizontal/005.gif" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/loaders/horizontal/006.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/loaders/circular/007.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/loaders/circular/008.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/loaders/horizontal/009.gif" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/loaders/circular/010.gif" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/loaders/circular/011.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/loaders/circular/012.gif" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/loaders/circular/013.gif" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/loaders/horizontal/014.gif" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/loaders/3d/015.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/loaders/circular/016.gif" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/loaders/circular/017.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/loaders/horizontal/018.gif" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/loaders/3d/019.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/loaders/circular/020.gif" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/loaders/circular/021.gif" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/loaders/circular/022.gif" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/loaders/circular/023.gif" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/loaders/horizontal/024.gif" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/loaders/circular/025.gif" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/loaders/3d/026.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/loaders/circular/027.gif" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/loaders/3d/028.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/loaders/circular/029.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/loaders/circular/030.gif" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/loaders/horizontal/031.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/loaders/horizontal/032.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/loaders/circular/033.gif" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/loaders/circular/034.gif" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/loaders/circular/035.gif" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/loaders/horizontal/036.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/loaders/horizontal/037.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/loaders/circular/038.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/loaders/3d/039.gif" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/loaders/circular/040.gif" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/loaders/circular/041.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/loaders/circular/042.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/loaders/horizontal/043.gif" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/loaders/circular/044.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/loaders/horizontal/045.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/loaders/circular/046.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/loaders/circular/047.gif" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/loaders/horizontal/048.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/loaders/circular/049.gif" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/loaders/circular/050.gif" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/loaders/circular/051.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/loaders/circular/052.gif" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/loaders/horizontal/053.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/loaders/circular/054.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/loaders/circular/055.gif" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/loaders/circular/056.gif" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/loaders/horizontal/057.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/loaders/horizontal/058.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/loaders/circular/059.gif" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/loaders/circular/060.gif" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/loaders/circular/061.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/loaders/horizontal/062.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/loaders/horizontal/063.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/loaders/circular/064.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/loaders/circular/065.gif" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/loaders/circular/066.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/loaders/3d/067.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/loaders/circular/068.gif" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/loaders/circular/069.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/loaders/circular/070.gif" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/loaders/3d/071.gif" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/loaders/circular/072.gif" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/gallery/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/gallery/thumbnails/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/patterns/1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/patterns/body/1.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/patterns/header/1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/patterns/sidebar/1.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/gallery/10.jpg" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/gallery/thumbnails/10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/gallery/11.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/gallery/thumbnails/11.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/gallery/12.jpg" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/gallery/thumbnails/12.jpg" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/gallery/13.jpg" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/gallery/thumbnails/13.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/gallery/14.jpg" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/gallery/thumbnails/14.jpg" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/gallery/15.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/gallery/thumbnails/15.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/gallery/16.jpg" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/gallery/thumbnails/16.jpg" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/gallery/17.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/gallery/thumbnails/17.jpg" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/gallery/18.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/gallery/thumbnails/18.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/gallery/19.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/gallery/thumbnails/19.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/patterns/2-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/patterns/2-2.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/files/gallery/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/gallery/2.jpg" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/gallery/thumbnails/2.jpg" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/patterns/2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/patterns/body/2.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/patterns/header/2.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/patterns/sidebar/2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/gallery/20.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/gallery/thumbnails/20.jpg" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/patterns/3-1.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/gallery/3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/gallery/thumbnails/3.jpg" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/patterns/3.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/patterns/body/3.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/patterns/header/3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/patterns/sidebar/3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/patterns/4-1.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/patterns/4-2.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/gallery/4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/gallery/thumbnails/4.jpg" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/patterns/4.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/patterns/body/4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/patterns/header/4.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/patterns/sidebar/4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/gallery/5.jpg" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/gallery/thumbnails/5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/patterns/5.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/patterns/6.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/gallery/7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/gallery/thumbnails/7.jpg" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/patterns/7.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/gallery/8.jpg" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/gallery/thumbnails/8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/patterns/8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/gallery/9.jpg" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/gallery/thumbnails/9.jpg" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/inlinepopups/skins/clearlooks2/img/alert.gif" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/skins/lightgray/img/anchor.gif" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/apple-touch-icon-114-precomposed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/apple-touch-icon-144-precomposed.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/apple-touch-icon-57-precomposed.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/apple-touch-icon-72-precomposed.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/misc/jqueryFileTree/images/application.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/icons/arrow-left.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/icons/arrow-right.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/arrowdown.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/files/plupload/images/arrowr.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/files/elfinder/images/arrows-active.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/files/elfinder/images/arrows-normal.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/arrowup.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/avatar.jpg" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/avatar1.jpg" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/avatar2.jpeg" />
@@ -159,55 +89,37 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/patterns/sidebar/az_subtle.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/patterns/sidebar/az_subtle_@2X.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/tables/dataTables/images/back_disabled.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/tables/dataTables/images/back_enabled_hover.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/tables/dataTables/images/background.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/files/plupload/jquery.plupload.queue/img/backgrounds.gif" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/patterns/header/bedge_grunge.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/patterns/header/bedge_grunge_@2X.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/patterns/sidebar/billie_holiday.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/patterns/sidebar/billie_holiday_@2X.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/css/fonts/broccolidry.eot" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/css/fonts/broccolidry.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/css/fonts/broccolidry.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/gallery/pretty-photo/images/dark_rounded/btnNext.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/gallery/pretty-photo/images/facebook/btnNext.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/gallery/pretty-photo/images/light_rounded/btnNext.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/gallery/pretty-photo/images/light_square/btnNext.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/gallery/pretty-photo/images/dark_rounded/btnPrevious.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/gallery/pretty-photo/images/dark_square/btnPrevious.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/gallery/pretty-photo/images/facebook/btnPrevious.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/gallery/pretty-photo/images/light_square/btnPrevious.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/inlinepopups/skins/clearlooks2/img/button.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/themes/advanced/skins/o2k7/img/button_bg.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/themes/simple/skins/o2k7/img/button_bg.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/files/plupload/jquery.plupload.queue/img/buttons-disabled.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/inlinepopups/skins/clearlooks2/img/buttons.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/files/plupload/jquery.plupload.queue/img/buttons.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/files/plupload/images/cancel3.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/files/plupload/images/check.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/uniform/checkbox.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/choose-file.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/files/plupload/images/cloud-upload.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/misc/jqueryFileTree/images/code.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/tables/dataTables/images/collection.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/tables/dataTables/images/psd/collection.psd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/tables/dataTables/images/collection_hover.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/inlinepopups/skins/clearlooks2/img/confirm.gif" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/gallery/pretty-photo/images/dark_rounded/contentPattern.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/gallery/pretty-photo/images/dark_square/contentPattern.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/gallery/pretty-photo/images/facebook/contentPatternBottom.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/gallery/pretty-photo/images/facebook/contentPatternLeft.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/gallery/pretty-photo/images/facebook/contentPatternRight.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/gallery/pretty-photo/images/facebook/contentPatternTop.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/tables/dataTables/images/psd/copy document.psd" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/tables/dataTables/images/copy.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/tables/dataTables/swf/copy_csv_xls.swf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/tables/dataTables/swf/copy_csv_xls_pdf.swf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/inlinepopups/skins/clearlooks2/img/corners.gif" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/patterns/body/cream_dust.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/patterns/body/cream_dust_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/files/elfinder/images/crop.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/misc/jqueryFileTree/images/css.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/tables/dataTables/images/csv.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/tables/dataTables/images/csv_hover.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/css/fonts/cuticons.eot" />
@@ -216,52 +128,28 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/gallery/pretty-photo/images/dark_rounded/default_thumbnail.gif" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/gallery/pretty-photo/images/light_rounded/default_thumbnail.gif" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/gallery/pretty-photo/images/light_square/default_thumbnail.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/files/plupload/jquery.plupload.queue/img/delete.gif" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/files/elfinder/images/dialogs.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/misc/jqueryFileTree/images/doc.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/files/plupload/jquery.plupload.queue/img/done.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/patterns/body/dust.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/patterns/body/dust_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/css/fonts/ecoico.eot" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/css/fonts/ecoico.ttf" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/css/fonts/ecoico.woff" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/css/fonts/entypo.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/css/fonts/entypo.ttf" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/css/fonts/entypo.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/files/plupload/jquery.plupload.queue/img/error.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/example/img/example.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/icons/external.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/misc/jqueryFileTree/images/flash.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/tables/dataTables/images/forward_disabled.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/tables/dataTables/images/forward_enabled.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/admin/fonts/glyphicons-halflings-regular.eot" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/admin/views/fonts/glyphicons-halflings-regular.eot" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/admin/fonts/glyphicons-halflings-regular.ttf" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/admin/views/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/admin/fonts/glyphicons-halflings-regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/admin/views/fonts/glyphicons-halflings-regular.woff" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/glyphicons-halflings-white.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/glyphicons-halflings.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/patterns/body/grey.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/patterns/sidebar/grey.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/patterns/body/grey_@2X.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/patterns/sidebar/grey_@2X.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/patterns/header/grid.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/patterns/header/grid_@2X.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/handle.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/inlinepopups/skins/clearlooks2/img/horizontal.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/misc/jqueryFileTree/images/html.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/skins/lightgray/fonts/icomoon-small.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/css/fonts/icomoon.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/skins/lightgray/fonts/icomoon.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/css/fonts/icomoon.ttf" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/skins/lightgray/fonts/icomoon.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/css/fonts/icomoon.woff" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/skins/lightgray/fonts/icomoon.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/css/fonts/iconic.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/css/fonts/iconic.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/css/fonts/iconic.woff" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/files/elfinder/images/icons-big.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/files/elfinder/images/icons-small.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/themes/advanced/img/icons.gif" />
@@ -269,30 +157,19 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/themes/advanced/img/iframe.gif" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/image.jpg" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/image2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/files/plupload/images/info.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/themes/advanced/skins/default/img/items.gif" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/misc/jqueryFileTree/images/java.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/files/.tmb/l1_Z2FsbGVyeVwyLmpwZw1333648498.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/files/.tmb/l1_cDE3NGZycWsxbTFkMGUxanI0ZDJsdmFwdnI4MS5wbmc1344857286.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/icons/left-arrow.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/misc/jqueryFileTree/images/linux.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/loader.gif" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/skins/lightgray/img/loader.gif" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/gallery/pretty-photo/images/dark_rounded/loader.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/gallery/pretty-photo/images/default/loader.gif" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/gallery/pretty-photo/images/light_square/loader.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/misc/search/loader.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/php/server/python_django/media/style_and_scripts/loading.gif" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/files/elfinder/images/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/color-picker/marker.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/color-picker/mask.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/themes/advanced/skins/default/img/menu_arrow.gif" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/themes/advanced/skins/default/img/menu_check.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/css/fonts/meteocons.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/css/fonts/meteocons.ttf" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/css/fonts/meteocons.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/css/fonts/minia.eot" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/css/fonts/minia.ttf" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/css/fonts/minia.woff" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/icons/minus.png" />
@@ -301,7 +178,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/patterns/header/nasty_fabric_@2X.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/patterns/header/natural_paper.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/patterns/header/natural_paper_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/patterns/sidebar/noise_lines.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/patterns/sidebar/noise_lines_@2X.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/skins/lightgray/img/object.gif" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/php/files/p174fr7oes1an7196q17211hfau8r1.png" />
@@ -309,53 +185,32 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/tables/dataTables/images/pdf.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/tables/dataTables/images/pdf_hover.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/misc/jqueryFileTree/images/picture.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/media/plugi" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/files/plupload/jquery.ui.plupload/img/plupload-bw.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/files/plupload/plupload.flash.swf" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/files/plupload/jquery.ui.plupload/img/plupload.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/files/plupload/plupload.silverlight.xap" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/icons/plus.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/files/plupload/images/plus.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/gallery/preload.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/tables/dataTables/images/print.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/tables/dataTables/images/print_hover.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/tables/dataTables/images/psd/printer.psd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/files/elfinder/images/progress.gif" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/themes/advanced/skins/default/img/progress.gif" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/misc/jqueryFileTree/images/psd.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/files/elfinder/images/quicklook-bg.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/files/elfinder/images/quicklook-icons.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/themes/advanced/img/quicktime.gif" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/uniform/radio.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/themes/advanced/img/realmedia.gif" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/files/elfinder/images/resize.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/icons/right-arrow.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/misc/jqueryFileTree/images/ruby.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/advimage/img/sample.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/misc/jqueryFileTree/images/script.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/search.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/select.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/uniform/select.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/uniform/select1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/select/select2-spinner.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/select/select2.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/uniform/select2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/select/select2x2.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/sidebarbg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/patterns/sidebarbg1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/patterns/sidebarbg2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/css/fonts/silkcons.eot" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/css/fonts/silkcons.ttf" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/css/fonts/silkcons.woff" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/simpleChart.zip" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/simpleChartsLoadedViaJSON.zip" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/emoticons/img/smiley-cool.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/emotions/img/smiley-cool.gif" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/emoticons/img/smiley-cry.gif" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/emotions/img/smiley-cry.gif" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/emoticons/img/smiley-embarassed.gif" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/emotions/img/smiley-embarassed.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/emoticons/img/smiley-foot-in-mouth.gif" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/emotions/img/smiley-foot-in-mouth.gif" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/emoticons/img/smiley-frown.gif" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/emotions/img/smiley-frown.gif" />
@@ -367,146 +222,87 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/emotions/img/smiley-laughing.gif" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/emoticons/img/smiley-money-mouth.gif" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/emotions/img/smiley-money-mouth.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/emoticons/img/smiley-sealed.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/emotions/img/smiley-sealed.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/emoticons/img/smiley-smile.gif" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/emotions/img/smiley-smile.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/emoticons/img/smiley-surprised.gif" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/emotions/img/smiley-surprised.gif" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/emoticons/img/smiley-tongue-out.gif" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/emotions/img/smiley-tongue-out.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/emoticons/img/smiley-undecided.gif" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/emotions/img/smiley-undecided.gif" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/emoticons/img/smiley-wink.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/emotions/img/smiley-wink.gif" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/emoticons/img/smiley-yell.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/emotions/img/smiley-yell.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/tables/dataTables/images/sort_asc.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/tables/dataTables/images/sort_both.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/files/elfinder/images/spinner-mini.gif" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/select/spinner.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/misc/jqueryFileTree/images/spinner.gif" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/spinner.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/gallery/pretty-photo/images/dark_rounded/sprite.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/gallery/pretty-photo/images/dark_square/sprite.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/gallery/pretty-photo/images/default/sprite.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/gallery/pretty-photo/images/default/sprite_next.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/gallery/pretty-photo/images/default/sprite_prev.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/gallery/pretty-photo/images/default/sprite_y.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/patterns/body/subtle_dots.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/patterns/body/subtle_dots_@2X.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/themes/advanced/skins/default/img/tabs.gif" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/files/plupload/jquery.plupload.queue/img/throbber.gif" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/files/elfinder/images/toolbar.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/patterns/topbarbg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/skins/lightgray/img/trans.gif" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/themes/advanced/img/trans.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/files/plupload/jquery.plupload.queue/img/transp50.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/css/fonts/typicons.eot" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/css/fonts/typicons.ttf" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/css/fonts/typicons.woff" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/css/supr-theme/images/ui-bg_diagonals-small_100_f4f4f4_40x40.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/css/supr-theme/images/ui-bg_dots-small_75_dedede_2x2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/css/supr-theme/images/ui-bg_dots-small_75_f7f7f7_2x2.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/css/supr-theme/images/ui-bg_flat_0_aaaaaa_40x100.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/css/supr-theme/images/ui-bg_flat_75_ffffff_40x100.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/css/supr-theme/images/ui-bg_glass_55_9fc569_1x400.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/css/supr-theme/images/ui-bg_glass_65_ffffff_1x400.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/css/supr-theme/images/ui-bg_glass_95_fef1ec_1x400.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/css/supr-theme/images/ui-icons_2e83ff_256x240.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/css/supr-theme/images/ui-icons_353535_256x240.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/css/supr-theme/images/ui-icons_454545_256x240.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/css/supr-theme/images/ui-icons_ed7a53_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/ui.totop.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/inlinepopups/skins/clearlooks2/img/vertical.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/themes/advanced/img/video.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/color-picker/wheel.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/themes/advanced/img/windowsmedia.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/skins/lightgray/img/wline.gif" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/css/fonts/wpzoom.eot" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/css/fonts/wpzoom.ttf" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/css/fonts/wpzoom.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/misc/jqueryFileTree/images/xls.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/tables/dataTables/images/xls.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/tables/dataTables/images/xls_hover.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/misc/jqueryFileTree/images/zip.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/php/server/uploads/.gitignore" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/403.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/404.html" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/405.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/500.html" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/503.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/admin/models/db/DBUsuario.php" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/Festadasnacoes.iml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/admin/models/MConexao.php" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/admin/models/MUse.php" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/admin/models/MUsuario.php" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/php/server/java/MultipartUploadParser.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/php/MySQLStorage.sql" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/php/server/java/RequestParser.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/tables/dataTables/TableTools.css" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/tables/dataTables/TableTools.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/php/server/java/UploadReceiver.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/admin/views/VUsuario.php" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/tables/dataTables/ZeroClipboard.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/php/server/python_django/file_uploader/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/xhtmlxtras/abbr.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/xhtmlxtras/js/abbr.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/themes/advanced/about.htm" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/xhtmlxtras/js/acronym.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/advhr/css/advhr.css" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/advimage/css/advimage.css" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/advlink/css/advlink.css" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/advlink/js/advlink.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/xhtmlxtras/css/attributes.css" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/xhtmlxtras/attributes.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/template/blank.htm" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/admin/css/bootstrap-theme.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/admin/views/css/bootstrap-theme.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/admin/css/bootstrap-theme.css" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/admin/views/css/bootstrap-theme.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/css/bootstrap/bootstrap-theme.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/admin/css/bootstrap-theme.min.css" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/admin/views/css/bootstrap-theme.min.css" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/css/bootstrap/bootstrap-theme.min.css" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/admin/css/bootstrap.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/admin/views/css/bootstrap.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/admin/css/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/admin/views/css/bootstrap.css" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/css/bootstrap/bootstrap.css" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/admin/js/bootstrap.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/admin/views/js/bootstrap.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/js/bootstrap/bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/admin/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/admin/views/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/css/bootstrap/bootstrap.min.css" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/admin/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/admin/views/js/bootstrap.min.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/js/bootstrap/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/css/bootstrap/bootstrap.rtl.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/css/bootstrap/bootstrap.rtl.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/css/fonts/broccolidry.svg" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/buttons.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/js/buttons.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/calendar.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/js/calendar.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/table/cell.htm" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/table/js/cell.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/themes/advanced/charmap.htm" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/themes/advanced/js/charmap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/charts-json.html" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/charts.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/js/charts.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/xhtmlxtras/cite.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/xhtmlxtras/js/cite.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/color-picker/color-picker.css" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/themes/advanced/color_picker.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/themes/advanced/js/color_picker.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/color-picker/colorpicker.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/php/connector.php" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/spellchecker/css/content.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/themes/advanced/skins/default/content.css" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/themes/advanced/skins/highcontrast/content.css" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/themes/advanced/skins/o2k7/content.css" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/themes/simple/skins/default/content.css" />
@@ -515,8 +311,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/files/plupload/i18n/cs.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/css/custom.css" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/css/fonts/cuticons.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/files/plupload/i18n/da.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/dashboard.html" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/js/dashboard.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/data-table.html" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/js/datatable.js" />
@@ -527,21 +321,11 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/deployment.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/themes/advanced/skins/default/dialog.css" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/themes/advanced/skins/highcontrast/dialog.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/themes/advanced/skins/o2k7/dialog.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/example/dialog.htm" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/example/js/dialog.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/drag.html" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/js/drag.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/css/fonts/ecoico.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/compat3x/editable_selects.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/utils/editable_selects.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/advhr/editor_plugin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/advimage/editor_plugin.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/advlink/editor_plugin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/advlist/editor_plugin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/autolink/editor_plugin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/autoresize/editor_plugin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/autosave/editor_plugin.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/bbcode/editor_plugin.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/contextmenu/editor_plugin.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/directionality/editor_plugin.js" />
@@ -554,9 +338,7 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/inlinepopups/editor_plugin.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/insertdatetime/editor_plugin.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/layer/editor_plugin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/legacyoutput/editor_plugin.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/lists/editor_plugin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/media/editor_plugin.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/nonbreaking/editor_plugin.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/pagebreak/editor_plugin.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/print/editor_plugin.js" />
@@ -565,27 +347,21 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/tabfocus/editor_plugin.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/table/editor_plugin.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/visualblocks/editor_plugin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/visualchars/editor_plugin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/wordcount/editor_plugin.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/xhtmlxtras/editor_plugin.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/advhr/editor_plugin_src.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/advimage/editor_plugin_src.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/advlink/editor_plugin_src.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/advlist/editor_plugin_src.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/autolink/editor_plugin_src.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/autoresize/editor_plugin_src.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/autosave/editor_plugin_src.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/bbcode/editor_plugin_src.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/contextmenu/editor_plugin_src.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/directionality/editor_plugin_src.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/emotions/editor_plugin_src.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/example/editor_plugin_src.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/example_dependency/editor_plugin_src.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/fullpage/editor_plugin_src.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/fullscreen/editor_plugin_src.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/iespell/editor_plugin_src.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/inlinepopups/editor_plugin_src.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/insertdatetime/editor_plugin_src.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/layer/editor_plugin_src.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/legacyoutput/editor_plugin_src.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/lists/editor_plugin_src.js" />
@@ -593,76 +369,43 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/noneditable/editor_plugin_src.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/pagebreak/editor_plugin_src.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/paste/editor_plugin_src.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/print/editor_plugin_src.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/spellchecker/editor_plugin_src.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/style/editor_plugin_src.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/tabfocus/editor_plugin_src.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/template/editor_plugin_src.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/visualchars/editor_plugin_src.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/xhtmlxtras/editor_plugin_src.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/themes/simple/editor_template.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/themes/advanced/editor_template_src.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/files/plupload/i18n/el.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/php/elFinder.class.php" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/php/elFinderConnector.class.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/files/elfinder/proxy/elFinderSupportVer1.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/php/elFinderVolumeDriver.class.php" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/php/elFinderVolumeLocalFileSystem.class.php" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/php/elFinderVolumeMySQL.class.php" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/xhtmlxtras/js/element_common.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/elements.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/js/elements.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/files/elfinder/i18n/elfinder.LANG.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/files/elfinder/i18n/elfinder.ar.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/files/elfinder/i18n/elfinder.bg.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/files/elfinder/i18n/elfinder.ca.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/files/elfinder/i18n/elfinder.cs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/files/elfinder/elfinder.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/files/elfinder/i18n/elfinder.de.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/files/elfinder/i18n/elfinder.es.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/files/elfinder/i18n/elfinder.fr.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/files/elfinder/i18n/elfinder.hu.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/files/elfinder/i18n/elfinder.jp.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/files/elfinder/elfinder.min.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/files/elfinder/i18n/elfinder.nl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/files/elfinder/i18n/elfinder.no.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/files/elfinder/i18n/elfinder.pl.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/files/elfinder/i18n/elfinder.pt_BR.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/files/elfinder/i18n/elfinder.ru.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/files/elfinder/i18n/elfinder.zh_CN.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/email.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/js/email.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/media/js/embed.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/emotions/emotions.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/emotions/js/emotions.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/js/empty.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/langs/en.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/example/langs/en.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/themes/advanced/langs/en.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/themes/simple/langs/en.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/advhr/langs/en_dlg.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/advimage/langs/en_dlg.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/advlink/langs/en_dlg.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/emotions/langs/en_dlg.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/example/langs/en_dlg.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/fullpage/langs/en_dlg.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/media/langs/en_dlg.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/paste/langs/en_dlg.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/searchreplace/langs/en_dlg.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/style/langs/en_dlg.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/template/langs/en_dlg.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/xhtmlxtras/langs/en_dlg.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/css/fonts/entypo.svg" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/files/plupload/i18n/es.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/files/plupload/i18n/et.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/preview/example.html" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/charts/flot/excanvas.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/js/libs/excanvas.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/charts/flot/excanvas.min.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/files/plupload/i18n/fa.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/faq.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/files/plupload/i18n/fi.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/file.html" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/js/file.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/php/server/python_django/media/style_and_scripts/fileuploader.css" />
@@ -673,159 +416,91 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/compat3x/form_utils.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/utils/form_utils.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/forms-validation.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/forms.html" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/js/forms.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/files/plupload/i18n/fr-ca.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/files/plupload/i18n/fr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/misc/fullcalendar/fullcalendar.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/misc/fullcalendar/fullcalendar.print.css" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/fullpage/css/fullpage.css" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/fullpage/fullpage.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/fullpage/js/fullpage.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/fullscreen/fullscreen.htm" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/misc/fullcalendar/gcal.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.af-ZA.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.af.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.am-ET.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.am.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.ar-AE.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.ar-BH.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.ar-DZ.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.ar-EG.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.ar-IQ.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.ar-JO.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.ar-KW.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.ar-LB.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.ar-LY.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.ar-MA.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.ar-OM.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.ar-QA.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.ar-SA.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.ar-SY.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.ar-TN.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.ar-YE.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.ar.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.arn-CL.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.arn.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.as-IN.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.as.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.az-Cyrl-AZ.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.az-Cyrl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.az-Latn-AZ.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.az-Latn.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.az.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.ba-RU.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.ba.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.be-BY.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.be.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.bg-BG.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.bg.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.bn-BD.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.bn-IN.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.bn.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.bo-CN.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.bo.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.br-FR.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.br.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.bs-Cyrl-BA.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.bs-Cyrl.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.bs-Latn-BA.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.bs-Latn.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.bs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.ca-ES.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.ca.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.co-FR.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.co.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.cs-CZ.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.cs.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.cy-GB.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.cy.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.da-DK.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.da.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.de-AT.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.de-CH.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.de-DE.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.de-LI.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.de-LU.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.de.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.dsb-DE.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.dsb.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.dv-MV.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.dv.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.el-GR.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.el.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.en-029.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.en-AU.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.en-BZ.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.en-CA.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.en-GB.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.en-IE.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.en-IN.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.en-JM.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.en-MY.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.en-NZ.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.en-PH.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.en-SG.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.en-TT.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.en-US.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.en-ZA.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.en-ZW.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.es-AR.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.es-BO.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.es-CL.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.es-CO.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.es-CR.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.es-DO.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.es-EC.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.es-ES.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.es-GT.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.es-HN.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.es-MX.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.es-NI.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.es-PA.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.es-PE.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.es-PR.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.es-PY.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.es-SV.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.es-US.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.es-UY.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.es-VE.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.es.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.et-EE.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.et.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.eu-ES.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.eu.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.fa-IR.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.fa.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.fi-FI.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.fi.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.fil-PH.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.fil.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.fo-FO.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.fo.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.fr-BE.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.fr-CA.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.fr-CH.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.fr-FR.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.fr-LU.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.fr-MC.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.fr.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.fy-NL.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.fy.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.ga-IE.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.ga.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.gd-GB.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.gd.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.gl-ES.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.gl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.gsw-FR.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.gsw.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.gu-IN.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.gu.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.ha-Latn-NG.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.ha-Latn.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.ha.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.he-IL.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.he.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.hi-IN.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.hi.js" />
@@ -835,213 +510,118 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.hsb-DE.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.hsb.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.hu-HU.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.hu.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.hy-AM.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.hy.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.id-ID.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.id.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.ig-NG.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.ig.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.ii-CN.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.ii.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.is-IS.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.is.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.it-CH.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.it-IT.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.it.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.iu-Cans-CA.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.iu-Cans.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.iu-Latn-CA.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.iu-Latn.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.iu.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.ja-JP.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.ja.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.ka-GE.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.ka.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.kk-KZ.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.kk.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.kl-GL.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.kl.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.km-KH.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.km.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.kn-IN.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.kn.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.ko-KR.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.ko.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.kok-IN.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.kok.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.ky-KG.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.ky.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.lb-LU.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.lb.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.lo-LA.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.lo.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.lt-LT.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.lt.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.lv-LV.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.lv.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.mi-NZ.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.mi.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.mk-MK.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.mk.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.ml-IN.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.ml.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.mn-Cyrl.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.mn-MN.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.mn-Mong-CN.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.mn-Mong.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.mn.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.moh-CA.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.moh.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.mr-IN.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.mr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.ms-BN.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.ms-MY.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.ms.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.mt-MT.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.mt.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.nb-NO.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.nb.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.ne-NP.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.ne.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.nl-BE.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.nl-NL.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.nl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.nn-NO.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.nn.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.no.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.nso-ZA.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.nso.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.oc-FR.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.oc.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.or-IN.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.or.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.pa-IN.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.pa.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.pl-PL.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.pl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.prs-AF.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.prs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.ps-AF.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.ps.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.pt-BR.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.pt-PT.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.pt.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.qut-GT.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.qut.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.quz-BO.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.quz-EC.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.quz-PE.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.quz.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.rm-CH.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.rm.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.ro-RO.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.ro.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.ru-RU.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.ru.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.rw-RW.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.rw.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.sa-IN.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.sa.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.sah-RU.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.sah.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.se-FI.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.se-NO.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.se-SE.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.se.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.si-LK.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.si.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.sk-SK.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.sk.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.sl-SI.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.sl.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.sma-NO.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.sma-SE.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.sma.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.smj-NO.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.smj-SE.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.smj.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.smn-FI.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.smn.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.sms-FI.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.sms.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.sq-AL.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.sq.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.sr-Cyrl-BA.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.sr-Cyrl-CS.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.sr-Cyrl-ME.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.sr-Cyrl-RS.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.sr-Cyrl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.sr-Latn-BA.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.sr-Latn-CS.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.sr-Latn-ME.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.sr-Latn-RS.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.sr-Latn.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.sr.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.sv-FI.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.sv-SE.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.sv.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.sw-KE.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.sw.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.syr-SY.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.syr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.ta-IN.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.ta.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.te-IN.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.te.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.tg-Cyrl-TJ.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.tg-Cyrl.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.tg.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.th-TH.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.th.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.tk-TM.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.tk.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.tn-ZA.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.tn.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.tr-TR.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.tr.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.tt-RU.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.tt.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.tzm-Latn-DZ.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.tzm-Latn.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.tzm.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.ug-CN.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.ug.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.uk-UA.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.uk.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.ur-PK.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.ur.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.uz-Cyrl-UZ.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.uz-Cyrl.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.uz-Latn-UZ.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.uz-Latn.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.uz.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.vi-VN.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.vi.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.wo-SN.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.wo.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.xh-ZA.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.xh.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.yo-NG.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.yo.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.zh-CHS.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.zh-CHT.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.zh-CN.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.zh-HK.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.zh-Hans.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.zh-Hant.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.zh-MO.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.zh-SG.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.zh-TW.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.zh.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.zu-ZA.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.culture.zu.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/cultures/globalize.cultures.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/globalize/globalize.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/admin/fonts/glyphicons-halflings-regular.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/admin/views/fonts/glyphicons-halflings-regular.svg" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/grid.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/admin/views/header.php" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/files/plupload/i18n/hr.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/files/plupload/i18n/hu.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/skins/lightgray/fonts/icomoon-small.svg" />
@@ -1049,63 +629,36 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/css/fonts/icomoon.svg" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/skins/lightgray/fonts/icomoon.svg" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/css/fonts/iconic.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/css/icons.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/icons.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/css/ie8.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/php/server/coldfusion/image-uploader.cfc" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/advimage/image.htm" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/advimage/js/image.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/css/index.html" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/css/bootstrap/index.html" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/css/fonts/index.html" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/css/supr-theme/images/index.html" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/index.html" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/icons/index.html" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/images/patterns/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/js/index.html" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/js/bootstrap/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/js/supr-theme/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/charts/flot/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/validate/localization/index.html" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/admin/index.php" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/xhtmlxtras/ins.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/xhtmlxtras/js/ins.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/invoice.html" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/fix/ios-fix/ios-orientationchange-fix.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/files/plupload/i18n/it.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/gallery/jpages/jPages.min.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/js/libs/jRespond.min.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/files/plupload/i18n/ja.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/js/supr-theme/jquery-ui-1.8.21.custom.min.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/js/supr-theme/jquery-ui-1.8.22.custom.min.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/js/supr-theme/jquery-ui-sliderAccess.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/css/supr-theme/jquery-ui-timepicker-addon.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/js/supr-theme/jquery-ui-timepicker-addon.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/charts/flot/jquery.colorhelpers.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/charts/flot/jquery.colorhelpers.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/tables/dataTables/jquery.dataTables.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/dualselect/jquery.dualListBox-1.3.min.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/elastic/jquery.elastic.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/charts/flot/jquery.flot.canvas.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/charts/flot/jquery.flot.canvas.min.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/charts/flot/jquery.flot.categories.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/charts/flot/jquery.flot.categories.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/charts/flot/jquery.flot.crosshair.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/charts/flot/jquery.flot.crosshair.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/charts/flot/jquery.flot.errorbars.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/charts/flot/jquery.flot.errorbars.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/charts/flot/jquery.flot.fillbetween.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/charts/flot/jquery.flot.fillbetween.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/charts/flot/jquery.flot.grow.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/charts/flot/jquery.flot.image.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/charts/flot/jquery.flot.image.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/charts/flot/jquery.flot.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/charts/flot/jquery.flot.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/charts/flot/jquery.flot.navigate.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/charts/flot/jquery.flot.navigate.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/charts/flot/jquery.flot.orderBars.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/charts/flot/jquery.flot.pie.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/charts/flot/jquery.flot.pie.min.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/charts/flot/jquery.flot.resize.js" />
@@ -1113,14 +666,9 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/charts/flot/jquery.flot.selection.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/charts/flot/jquery.flot.selection.min.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/charts/flot/jquery.flot.stack.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/charts/flot/jquery.flot.stack.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/charts/flot/jquery.flot.symbol.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/charts/flot/jquery.flot.symbol.min.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/charts/flot/jquery.flot.threshold.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/charts/flot/jquery.flot.threshold.min.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/charts/flot/jquery.flot.time.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/charts/flot/jquery.flot.time.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/charts/flot/jquery.flot.tooltip_0.4.4.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/wizard/jquery.form.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/wizard/jquery.form.wizard.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/inputlimiter/jquery.inputlimiter.1.3.js" />
@@ -1128,115 +676,75 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/inputlimiter/jquery.inputlimiter.css" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/charts/knob/jquery.knob.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/gallery/lazy-load/jquery.lazyload.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/maskedinput/jquery.maskedinput-1.3.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/maskedinput/jquery.maskedinput-1.3.min.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/js/jquery.mousewheel.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/misc/nicescroll/jquery.nicescroll.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/misc/nicescroll/jquery.nicescroll.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/placeholder/jquery.placeholder.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/placeholder/jquery.placeholder.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/files/plupload/jquery.plupload.queue/css/jquery.plupload.queue.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/files/plupload/jquery.plupload.queue/jquery.plupload.queue.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/misc/pnotify/jquery.pnotify.default.css" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/misc/pnotify/jquery.pnotify.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/misc/pnotify/jquery.pnotify.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/gallery/pretty-photo/jquery.prettyPhoto.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/misc/animated-progress-bar/jquery.progressbar.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/misc/qtip/jquery.qtip.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/misc/qtip/jquery.qtip.min.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/charts/sparkline/jquery.sparkline.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/charts/sparkline/jquery.sparkline.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/timeentry/langs/jquery.timeentry-ca.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/timeentry/langs/jquery.timeentry-cs.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/timeentry/langs/jquery.timeentry-de.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/timeentry/langs/jquery.timeentry-es.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/timeentry/langs/jquery.timeentry-fa.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/timeentry/langs/jquery.timeentry-fr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/timeentry/langs/jquery.timeentry-hu.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/timeentry/langs/jquery.timeentry-is.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/timeentry/langs/jquery.timeentry-it.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/timeentry/langs/jquery.timeentry-ja.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/timeentry/langs/jquery.timeentry-lt.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/timeentry/langs/jquery.timeentry-lv.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/timeentry/langs/jquery.timeentry-nl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/timeentry/langs/jquery.timeentry-pl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/timeentry/langs/jquery.timeentry-pt.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/timeentry/langs/jquery.timeentry-ro.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/timeentry/langs/jquery.timeentry-ru.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/timeentry/langs/jquery.timeentry-sk.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/timeentry/langs/jquery.timeentry-sv.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/timeentry/langs/jquery.timeentry-tr.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/timeentry/langs/jquery.timeentry-vi.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/timeentry/langs/jquery.timeentry-zh-CN.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/timeentry/jquery.timeentry.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/timeentry/jquery.timeentry.min.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/timeentry/jquery.timeentry.pack.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/jquery.tinymce.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/jquery.tinymce.min.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/togglebutton/jquery.toggle.buttons.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/css/supr-theme/jquery.ui.autocomplete.css" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/css/supr-theme/jquery.ui.combobox.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/css/supr-theme/jquery.ui.core.css" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/css/supr-theme/jquery.ui.datepicker.css" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/css/supr-theme/jquery.ui.dialog.css" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/files/plupload/jquery.ui.plupload/css/jquery.ui.plupload.css" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/files/plupload/jquery.ui.plupload/jquery.ui.plupload.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/css/supr-theme/jquery.ui.progressbar.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/css/supr-theme/jquery.ui.resizable.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/css/supr-theme/jquery.ui.slider.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/css/supr-theme/jquery.ui.spinner.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/css/supr-theme/jquery.ui.supr.css" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/css/supr-theme/jquery.ui.theme.css" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/css/supr-theme/jquery.ui.tooltip.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/misc/totop/jquery.ui.totop.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/fix/touch-punch/jquery.ui.touch-punch.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/fix/touch-punch/jquery.ui.touch-punch.min.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/uniform/jquery.uniform.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/validate/jquery.validate.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/validate/jquery.validate.min.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/php/filetree/jqueryFileTree.asp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/php/filetree/jqueryFileTree.aspx" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/php/filetree/jqueryFileTree.cf" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/misc/jqueryFileTree/jqueryFileTree.css" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/misc/jqueryFileTree/jqueryFileTree.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/php/filetree/jqueryFileTree.jsp" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/php/filetree/jqueryFileTree.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/php/filetree/jqueryFileTree.pl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/php/filetree/jqueryFileTree.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/php/filetree/jqueryFileTree.rb" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/php/filetree/jqueryFileTree_huck.lasso" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/php/filetree/jqueryFileTree_sabourdin.lasso" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/js/json-charts.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/files/plupload/i18n/ko.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/misc/prettify/lang-clj.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/misc/prettify/lang-css.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/misc/prettify/lang-go.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/misc/prettify/lang-hs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/misc/prettify/lang-ml.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/misc/prettify/lang-n.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/misc/prettify/lang-proto.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/misc/prettify/lang-scala.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/misc/prettify/lang-sql.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/misc/prettify/lang-wiki.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/misc/prettify/lang-xq.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/css/fonts/license.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/license.txt" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/advlink/link.htm" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/themes/advanced/link.htm" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/themes/advanced/js/link.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/files/plupload/i18n/lv.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/css/main.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/js/main.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/php/server/python_django/file_uploader/manage.py" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/compat3x/mctabs.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/utils/mctabs.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/media/css/media.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/media/media.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/media/js/media.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/css/mega-menu.css" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/js/mega-menu.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/table/merge_cells.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/validate/localization/messages_ar.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/validate/localization/messages_ca.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/validate/localization/messages_cn.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/validate/localization/messages_cs.js" />
@@ -1249,22 +757,16 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/validate/localization/messages_hr.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/validate/localization/messages_hu.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/validate/localization/messages_it.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/validate/localization/messages_ka.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/validate/localization/messages_kk.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/validate/localization/messages_ko.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/validate/localization/messages_lt.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/validate/localization/messages_lv.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/validate/localization/messages_my.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/validate/localization/messages_nl.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/validate/localization/messages_no.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/validate/localization/messages_pl.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/validate/localization/messages_pt_BR.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/validate/localization/messages_pt_PT.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/validate/localization/messages_ptpt.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/validate/localization/messages_ro.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/validate/localization/messages_ru.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/validate/localization/messages_se.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/validate/localization/messages_sk.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/validate/localization/messages_sl.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/validate/localization/messages_sr.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/validate/localization/messages_sv.js" />
@@ -1279,14 +781,10 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/validate/localization/methods_de.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/validate/localization/methods_nl.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/validate/localization/methods_pt.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/css/fonts/minia.svg" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/js/libs/modernizr.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/files/plupload/i18n/nl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/no-sidebar.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/php/server/nodejs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/offline.html" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/paste/pastetext.htm" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/paste/js/pastetext.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/paste/pasteword.htm" />
@@ -1294,38 +792,20 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/php/server/perl.cgi" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/php/server/php.php" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/files/plupload/i18n/pl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/advlist/plugin.min.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/anchor/plugin.min.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/autolink/plugin.min.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/autoresize/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/autosave/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/bbcode/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/charmap/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/code/plugin.min.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/contextmenu/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/directionality/plugin.min.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/emoticons/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/example/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/example_dependency/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/fullpage/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/fullscreen/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/hr/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/image/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/insertdatetime/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/layer/plugin.min.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/legacyoutput/plugin.min.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/link/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/lists/plugin.min.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/nonbreaking/plugin.min.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/preview/plugin.min.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/print/plugin.min.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/save/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/searchreplace/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/spellchecker/plugin.min.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/tabfocus/plugin.min.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/table/plugin.min.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/template/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/textcolor/plugin.min.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/visualblocks/plugin.min.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/visualchars/plugin.min.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/wordcount/plugin.min.js" />
@@ -1334,66 +814,42 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/files/plupload/plupload.full.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/files/plupload/plupload.gears.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/files/plupload/plupload.html4.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/files/plupload/plupload.html5.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/files/plupload/plupload.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/files/plupload/plupload.silverlight.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/misc/prettify/prettify.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/preview/preview.html" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/profile.html" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/style/props.htm" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/style/js/props.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/files/plupload/i18n/pt-br.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/langs/readme.md" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/php/server/readme.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/php/server/coldfusion/readme.txt" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/style/readme.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/js/libs/respond.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/tables/responsive-tables/responsive-tables.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/right-sidebar.html" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/files/plupload/i18n/ro.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/table/css/row.css" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/table/js/row.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/files/plupload/i18n/ru.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/advhr/rule.htm" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/advhr/js/rule.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/search.html" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/searchreplace/css/searchreplace.css" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/searchreplace/searchreplace.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/select/select2.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/select/select2.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/select/select2.min.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/select/_locales/select2_locale_ca.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/select/_locales/select2_locale_cs.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/select/_locales/select2_locale_da.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/select/_locales/select2_locale_de.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/select/_locales/select2_locale_es.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/select/_locales/select2_locale_et.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/select/_locales/select2_locale_eu.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/select/_locales/select2_locale_fr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/select/_locales/select2_locale_gl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/select/_locales/select2_locale_he.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/select/_locales/select2_locale_hr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/select/_locales/select2_locale_hu.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/select/_locales/select2_locale_is.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/select/_locales/select2_locale_it.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/select/_locales/select2_locale_ja.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/select/_locales/select2_locale_lt.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/select/_locales/select2_locale_lv.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/select/_locales/select2_locale_mk.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/select/_locales/select2_locale_nl.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/select/_locales/select2_locale_no.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/select/_locales/select2_locale_pl.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/select/_locales/select2_locale_pt-BR.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/select/_locales/select2_locale_pt-PT.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/select/_locales/select2_locale_ro.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/select/_locales/select2_locale_ru.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/select/_locales/select2_locale_sk.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/select/_locales/select2_locale_sv.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/select/_locales/select2_locale_tr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/select/_locales/select2_locale_ua.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/select/_locales/select2_locale_vi.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/select/_locales/select2_locale_zh-CN.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/select/_locales/select2_locale_zh-TW.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/php/server/python_django/file_uploader/settings.py" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/css/fonts/silkcons.svg" />
@@ -1405,48 +861,28 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/skins/lightgray/skin.min.css" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/themes/advanced/source_editor.htm" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/files/plupload/i18n/sr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/structure.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/js/support.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/files/plupload/i18n/sv.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/table/css/table.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/tables.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/js/tables.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/template/css/template.css" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/inlinepopups/template.htm" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/template/template.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/files/elfinder/theme.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/themes/modern/theme.min.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/tiny_mce.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/tiny_mce_popup.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/compat3x/tiny_mce_popup.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/tinymce.min.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/misc/search/tipuesearch_content.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/misc/search/tipuesearch_content.json" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/togglebutton/toggle-buttons.css" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/two-sidebars.html" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/typeahead/typeahead.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/typeahead/typeahead.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/css/fonts/typicons.svg" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/typo.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/themes/advanced/skins/default/ui.css" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/themes/advanced/skins/highcontrast/ui.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/themes/advanced/skins/o2k7/ui.css" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/themes/simple/skins/default/ui.css" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/themes/simple/skins/o2k7/ui.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/themes/advanced/skins/o2k7/ui_black.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/themes/advanced/skins/o2k7/ui_silver.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/php/server/coldfusion/upload-page.cfm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/php/upload.php" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/php/server/python_django/file_uploader/urls.py" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/validate/validate.css" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/compat3x/validate.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/utils/validate.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/php/server/python_django/file_uploader/view.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/visualblocks/css/visualblocks.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/widgets.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/js/widgets.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/plugins/forms/tiny_mce/plugins/inlinepopups/skins/clearlooks2/window.css" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exemplos/css/fonts/wpzoom.svg" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/app/Http/Controllers/Auth/AuthController.php" afterPath="" />
@@ -1495,7 +931,7 @@
       <file leaf-file-name="WelcomeController.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/Http/Controllers/WelcomeController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.34920636" vertical-offset="0" max-vertical-offset="756">
+            <state vertical-scroll-proportion="0.3735849" vertical-offset="0" max-vertical-offset="756">
               <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
               <folding />
             </state>
@@ -1734,10 +1170,10 @@
     <frame x="51" y="-4" width="1389" height="1054" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32903227" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32903227" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3688172" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32903227" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3688172" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24917673" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1936,7 +1372,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/Http/Controllers/WelcomeController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.34920636" vertical-offset="0" max-vertical-offset="756">
+        <state vertical-scroll-proportion="0.3735849" vertical-offset="0" max-vertical-offset="756">
           <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
           <folding />
         </state>
