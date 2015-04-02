@@ -25,15 +25,29 @@
         <!-- /.search form -->
         <!-- sidebar menu: : style can be found in sidebar.less -->
         <ul class="sidebar-menu">
+            <li class="header">PESSOAS</li>
+            <li><a href="#"><i class="fa fa-male"></i>Clientes</a></li>
+            <li><a href="#"><i class="fa fa-male"></i>Funcionários</a></li>
+
             <li class="header">CADASTROS</li>
             <li class="treeview">
                 <a href="#">
-                    <i class="fa fa-dashboard"></i> <span>Produtos</span> <i class="fa fa-angle-left pull-right"></i>
+                    <i class="fa fa-list"></i> <span>Evento</span> <i class="fa fa-angle-left pull-right"></i>
                 </a>
                 <ul class="treeview-menu">
-                    <li><a href="#"><i class="fa fa-circle-o"></i> Unidades</a></li>
-                    <li><a href="#"><i class="fa fa-circle-o"></i> Produtos</a></li>
-                    <li><a href="#"><i class="fa fa-circle-o"></i> Ingredientes</a></li>
+                    <li><a href="#"><i class="fa"></i> Evento</a></li>
+                    <li><a href="#"><i class="fa"></i> Nação</a></li>
+                </ul>
+            </li>
+            <li class="treeview">
+                <a href="#">
+                    <i class="fa fa-list"></i> <span>Produtos</span> <i class="fa fa-angle-left pull-right"></i>
+                </a>
+                <ul class="treeview-menu">
+                    <li><a href="#"><i class="fa"></i> Unidades</a></li>
+                    <li><a href="#"><i class="fa"></i> Produtos</a></li>
+                    <li><a href="#"><i class="fa"></i> Prato</a></li>
+                    <li><a href="#"><i class="fa"></i> Cardápio</a></li>
                 </ul>
             </li>
         </ul>
